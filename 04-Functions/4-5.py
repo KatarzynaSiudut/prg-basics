@@ -17,4 +17,4 @@ def pts_to_grade(points):
 
 test_result = 10
 final_grade = pts_to_grade(test_result)
-print('You scored 10 points on the test. Your final grade is: ', final_grade)
+print(f'You scored {test_result} points on the test. Your final grade is: ', {final_grade})

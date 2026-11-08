@@ -17,6 +17,12 @@ print("Integer: ", int("20303"))
 
 print("bin: ", bin(304))
 
+print("hexadecimal", hex(304))
+
+print("Unicode", ord("€"))
+
+print("Absolute value" ,  abs(-17))
+
 
 
 

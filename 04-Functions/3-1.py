@@ -6,7 +6,7 @@ import math
 square_root = math.sqrt(7)
 print('A square root of 7 is', square_root)
 
-logarithm = math.log1p(5)
+logarithm = math.log(5)
 print('A natural logarithm of 5 is: ', logarithm)
 
 sine = math.sin(90)
